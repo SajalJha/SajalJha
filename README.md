@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SajalJha
-- 👀 I’m interested in learning blockchain development.
-- 🌱 I’m currently learning c++,dbms,html,web development
-- 💞️ I’m looking to collaborate on 
+- Hi, I’m @SajalJha
+- I’m interested in learning blockchain development.
+- I’m currently learning c++,dbms,html,web development
+
 
 
 <!---
