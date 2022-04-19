@@ -1,6 +1,6 @@
 - Hi, I’m @SajalJha
 - I’m interested in learning blockchain development.
-- I’m currently learning c++,dbms,html,web development
+- I’m currently learning c++,java, java script, Html-Css
 
 
 
